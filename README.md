@@ -1,6 +1,6 @@
 # MNIST Handwritten Digit Recognition
 
-This project implements a handwritten digit recognition model using PyTorch, showcasing two architectures: an Artificial Neural Network (ANN) and a Convolutional Neural Network (CNN). The models are trained on the MNIST dataset, which consists of 70,000 grayscale images of handwritten digits (0-9). For dataset details, [click here](https://pytorch.org/vision/0.19/generated/torchvision.datasets.MNIST.html#torchvision.datasets.MNIST).
+This project implements a handwritten digit recognition model using PyTorch, showcasing two architectures: an Artificial Neural Network (ANN) and a Convolutional Neural Network (CNN). The models are trained on the MNIST dataset, which consists of 70,000 grayscale images of handwritten digits (0-9).<br>For dataset details, [click here](https://pytorch.org/vision/0.19/generated/torchvision.datasets.MNIST.html#torchvision.datasets.MNIST).
 
 ## Features
 
